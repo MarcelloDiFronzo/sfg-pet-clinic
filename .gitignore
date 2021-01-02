@@ -71,6 +71,13 @@ local.properties
 /target/
 
 ######################
+# Multimodule
+######################
+#/pet-clinic-web/target/
+#/pet-clinic-data/target/
+*/target/
+
+######################
 # Gradle
 ######################
 .gradle/
@@ -139,18 +146,3 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
-/pet-clinic-data/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
-/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
-/pet-clinic-data/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
-/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
-/pet-clinic-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
-/pet-clinic-web/target/surefire-reports/guru.springframework.sfgpetclinic.SfgPetClinicApplicationTests.txt
-/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
-/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
-/pet-clinic-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
-/pet-clinic-web/target/pet-clinic-web-0.0.2.jar.original
-/pet-clinic-data/target/maven-archiver/pom.properties
-/pet-clinic-web/target/maven-archiver/pom.properties
-/pet-clinic-web/target/surefire-reports/TEST-guru.springframework.sfgpetclinic.SfgPetClinicApplicationTests.xml
-/pet-clinic-web/target/classes/larry.jpg
-/pet-clinic-web/target/classes/templates/index.html
