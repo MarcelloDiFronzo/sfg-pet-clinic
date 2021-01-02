@@ -153,3 +153,4 @@ Desktop.ini
 /pet-clinic-web/target/maven-archiver/pom.properties
 /pet-clinic-web/target/surefire-reports/TEST-guru.springframework.sfgpetclinic.SfgPetClinicApplicationTests.xml
 /pet-clinic-web/target/classes/larry.jpg
+/pet-clinic-web/target/classes/templates/index.html
